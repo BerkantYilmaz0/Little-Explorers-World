@@ -90,3 +90,9 @@ $RECYCLE.BIN/
 # GitHub Desktop
 .github/
 
+# Little Explorers' World AI Kit & Plans
+.agent/
+*.md
+!README.md
+!PrivacyPolicy.md
+
