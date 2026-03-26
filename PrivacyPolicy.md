@@ -1,15 +1,25 @@
-# Privacy Policy
+# Privacy Policy - Little Explorers' World
 
-Last updated: 2026
+**Last updated:** March 26, 2026
 
-This game does not collect, store, or share any personal information from users.
+At **Little Explorers' World**, we prioritize the privacy and safety of children. This game is designed for players aged 3-5 and their families.
 
-The application is designed for entertainment purposes and does not require user accounts, login systems, or personal data.
+## 1. No Personal Data Collection
+We do **not** collect, store, or share any personal information from our users (such as names, email addresses, phone numbers, or location data). The game can be played entirely offline and without creating an account.
 
-No advertisements are displayed in the game and no third-party services are used to collect user information.
+## 2. Children's Privacy (COPPA & GDPR-K Compliance)
+Our application is specifically designed for young children. We strictly comply with the Children's Online Privacy Protection Act (COPPA) and the General Data Protection Regulation (GDPR). We do not collect any identifiers from children.
 
-The game can be downloaded and played without providing any personal information.
+## 3. No Advertisements & No Third-Party Analytics
+To ensure a safe environment, we do not show any third-party advertisements and we do not use any third-party analytics tools that track user behavior.
 
-If you have any questions about this Privacy Policy, you can contact us at:
+## 4. Data Processed Locally
+Any data related to game progress is stored **locally** on your device and is never transmitted to our servers or shared with external parties.
 
-Email: yourmail@example.com
+## 5. Contact Us
+If you have any questions or suggestions about our Privacy Policy, please contact us at:
+
+**Email:** berkantfurkant06@gmail.com
+
+---
+© 2026 Little Explorers' World. Developed with love for the little ones.
